@@ -1,0 +1,14 @@
+# Dependências geridas via Composer (reconstrua com `composer install`)
+/vendor/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
